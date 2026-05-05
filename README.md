@@ -36,7 +36,7 @@ Transportation and food access remain critical challenges. A significant share o
 
 Overall, the project provides a data-driven picture of progress and persistent inequities in North St. Louis City, emphasizing that improvements in income and poverty do not automatically translate into equitable, practical access to healthy food.
 
-- [![Story Map Preview](your-screenshot.png)](https://storymaps.arcgis.com/stories/bdf4b5babe2e4eeb93ca296f1fecd703)
+[![Story Map Preview](your-screenshot.png)](https://storymaps.arcgis.com/stories/bdf4b5babe2e4eeb93ca296f1fecd703)
 
 
 
