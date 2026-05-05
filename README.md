@@ -25,7 +25,7 @@ You can view or download my CV here:
 
 ## Project
 
-### Project 1: Food Access in North St. Louis City
+### Food Access in North St. Louis City
 This project analyzes changes in access to healthy food in eight North St. Louis City zip codes located within the St. Louis Promise Zone (2015–2025), a federally designated high‑poverty area. Using secondary data from PolicyMap, the U.S. Census Bureau, USDA Economic Research Service, Think Health St. Louis, and the St. Louis Metro ArcGIS Portal, I examined trends in poverty, per capita income, vehicle access, and supermarket availability between roughly 2010–2015 and 2020–2024.
 
 
