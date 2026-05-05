@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio. Here you can find information about my backgroun
 
 You can view or download my CV here:
 
-- [View my CV (PDF)](cv/Shameka_Russell_CV.pdf)
+- [View my CV (PDF)](Shameka_Russell_CV.pdf)
 
 
 ---
