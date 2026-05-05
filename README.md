@@ -1,6 +1,9 @@
 # Shameka Russell
 
-Welcome to my GitHub portfolio. Here you can find information about my background, experience, and project. My name is Shameka Russell, and I am a Senior Finance and Planning Analyst in Emergency Medicine at Washington University in St. Louis. I have a bachelor’s in Elementary Education from the University of Missouri-St. Louis. After spending a few years in the education field, I pivoted to finance and administration. I bring more than eight years of experience in budgeting, financial reporting, and process improvement across higher education. In my current role, I work extensively with Workday, Adaptive Planning, and Excel to develop and monitor budgets, analyze expenses, and provide guidance with clear, data-driven insights.
+Welcome to my GitHub portfolio. Here you can find information about my background, experience, and project. 
+
+My name is Shameka Russell, and I am a member of the finance team in Emergency Medicine at Washington University in St. Louis. I have a bachelor’s in Elementary Education from the University of Missouri-St. Louis. After spending a few years in the education field, I pivoted to finance and administration. I bring more than eight years of experience in budgeting, financial reporting, and process improvement across higher education. In my current role, I work extensively with Workday, Adaptive Planning, and Excel to develop and monitor budgets, analyze expenses, and provide guidance with clear, data-driven insights.
+
 I am also completing a Certificate in Data Analytics at Washington University, where I am building deeper skills in SQL, Tableau, and data visualization. My earlier background as a certified elementary and ESOL teacher has given me a strong foundation in communication and stakeholder engagement, which I now apply to translating complex financial and data concepts for non-technical audiences.
 
 
