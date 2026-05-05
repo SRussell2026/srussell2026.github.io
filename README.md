@@ -9,19 +9,10 @@ I am also completing a Certificate in Data Analytics at Washington University, w
 ## Navigation
 
 - [Home](#shameka-russell)
-- [CV](#curriculum-vitae)
 - [Project](#project)
+- [CV](#curriculum-vitae)
 - [Contact](#contact)
   
-
----
-
-## Curriculum Vitae
-
-You can view or download my CV here:
-
-- [View my CV (PDF)](Shameka_Russell_CV.pdf)
-
 
 ---
 
@@ -40,6 +31,13 @@ In the end, the project shows that while the area has made economic progress, th
 [![Story Map Preview](your-screenshot.png)](https://storymaps.arcgis.com/stories/bdf4b5babe2e4eeb93ca296f1fecd703)
 
 
+---
+
+## Curriculum Vitae
+
+You can view or download my CV here:
+
+- [View my CV (PDF)](Shameka_Russell_CV.pdf)
 
 
 ---
