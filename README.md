@@ -28,13 +28,11 @@ You can view or download my CV here:
 ## Project
 
 ### Food Access in North St. Louis City
-This project examines how access to healthy food has changed in eight North St. Louis City zip codes within the federally designated St. Louis Promise Zone (2015–2025), an area characterized by high poverty and longstanding disinvestment. Using data from PolicyMap, the U.S. Census Bureau, USDA Economic Research Service, Think Health St. Louis, the St. Louis Metro ArcGIS Portal, and prior work by the Missouri Coalition for the Environment, the analysis compares two periods: roughly 2010–2014 (baseline) and 2020–2024 (current).
+This project examined how access to healthy food has changed over time in eight North St. Louis City zip codes that are part of the St. Louis Promise Zone (2015–2025), an area that has faced high poverty and disinvestment for years. I used data from PolicyMap, the U.S. Census, USDA, Think Health St. Louis, the St. Louis Metro ArcGIS Portal, and a StoryMap from the Missouri Coalition for the Environment to compare two time periods: about 2010–2014 and 2020–2024.
+The data shows some real signs of progress. On average, poverty rates in these neighborhoods went down by about 17 percentage points, and per capita income went up by about 74%, with some zip codes (like 63106 and 63108) seeing especially big jumps. Even with these improvements, though, poverty is still higher than the national average, and incomes are still behind the rest of the country.
+Transportation and food options are still major issues. Many households do not have a car, which means people rely heavily on the bus, walking, or biking to get groceries. When we map where SNAP is accepted, most of the nearby options are convenience stores, not full grocery stores or supermarkets. By adding in bus routes and new bike and pedestrian improvements (with input from Trailnet), the project highlights where people have realistic, safer routes to healthy food—and where those routes are still missing.
+In the end, the project shows that while the area has made economic progress, that doesn’t automatically mean everyone has easy, reliable access to healthy food.
 
-The study finds meaningful economic improvement over time. Average poverty rates across the eight zip codes decreased by about 17 percentage points, and per capita income increased by approximately 74%, with some zip codes (e.g., 63106 and 63108) seeing especially strong growth. However, despite these gains, the area’s poverty rates remain above national averages, and incomes continue to lag behind broader U.S. trends.
-
-Transportation and food access remain critical challenges. A significant share of households still lack access to a car, increasing dependence on public transit, walking, and biking to reach full-service grocery stores. Mapping of SNAP-accepting retailers shows that convenience stores dominate the local food landscape, while supermarkets and larger grocery options are relatively scarce. The project integrates bus routes and emerging bicycle and pedestrian infrastructure (developed in partnership with Trailnet) to highlight where “safe pathways” to healthy food exist—and where gaps remain.
-
-Overall, the project provides a data-driven picture of progress and persistent inequities in North St. Louis City, emphasizing that improvements in income and poverty do not automatically translate into equitable, practical access to healthy food.
 
 [![Story Map Preview](your-screenshot.png)](https://storymaps.arcgis.com/stories/bdf4b5babe2e4eeb93ca296f1fecd703)
 
