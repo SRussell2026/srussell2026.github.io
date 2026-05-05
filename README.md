@@ -20,7 +20,6 @@ You can view or download my CV here:
 
 - [View my CV (PDF)](cv/Shameka_Russell_CV.pdf)
 
-> Make sure you upload your CV file to a folder named `cv` in this repository and name it `Shameka_Russell_CV.pdf`, or update the link above to match your actual file path and name.
 
 ---
 
